@@ -21,7 +21,7 @@ Berikut adalah tampilan hasil aplikasi Android:
 
 Video demo aplikasi dapat dilihat pada file berikut:  
 
-![Demo Tugas 2 Pertemuan 3](assets/Demo-Tugas-2-Screen-Recording-2025-09-19-223112.gif)
+![Demo Tugas 2 Pertemuan 3](assets/Demo%20Tugas%202-Screen%20Recording%202025-09-19%20223112.gif.gif)
 
 
 
