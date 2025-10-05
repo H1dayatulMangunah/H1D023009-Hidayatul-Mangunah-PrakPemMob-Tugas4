@@ -30,7 +30,8 @@ Video demo aplikasi dapat dilihat pada file berikut:
 ## 🎥 Demo Aplikasi — Tugas 3 (Pertemuan 4)
 
 Video demo aplikasi dapat dilihat pada file berikut:  
-![Demo Tugas 3 Pertemuan 4](assets/Demo%20Tugas%203-Screen%20Recording%202025-09-28%20215031.gif.mp4)
+
+![Demo Tugas 3 Pertemuan 4](assets/Demo%20Tugas%203-Screen%20Recording%202025-09-28%20215031.gif)
 
 
 
