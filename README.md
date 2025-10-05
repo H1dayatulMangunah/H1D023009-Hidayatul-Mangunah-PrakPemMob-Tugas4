@@ -19,12 +19,15 @@ Berikut adalah tampilan hasil aplikasi Android:
 
 ## 🎥 Demo Aplikasi Tugas 2 Pertemuan 3
 Video demo aplikasi dapat dilihat pada file berikut:  
+![Demo Tugas 2 Pertemuan 3](assets/Demo Tugas 2-Screen Recording 2025-09-19 223112.gif.gif)
 `assets/Demo Tugas 2-Screen Recording 2025-09-19 223112.gif.gif`
 
 ## 🎥 Demo Aplikasi Tugas 3 Pertemuan 4
 Video demo aplikasi dapat dilihat pada file berikut:  
+![Demo Tugas 2 Pertemuan 3](assets/Demo Tugas 3-Screen Recording 2025-09-28 215031.gif.mp4)
 `assets/Demo Tugas 3-Screen Recording 2025-09-28 215031.gif.mp4`
 
 ## 🎥 Demo Aplikasi Tugas 4 Pertemuan 5
-Video demo aplikasi dapat dilihat pada file berikut:  
+Video demo aplikasi dapat dilihat pada file berikut: 
+![Demo Tugas 2 Pertemuan 3](assets/Demo Tugas 4.gif.gif)
 `assets/Demo Tugas 4.gif.gif`
