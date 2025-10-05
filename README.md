@@ -41,4 +41,4 @@ Video demo aplikasi dapat dilihat pada file berikut:
 
 Video demo aplikasi dapat dilihat pada file berikut:  
 
-![Demo Tugas 4 Pertemuan 5](assets/Demo-Tugas-4.gif)
+![Demo Tugas 4 Pertemuan 5](assets/Demo-Tugas-4.gif.gif)
