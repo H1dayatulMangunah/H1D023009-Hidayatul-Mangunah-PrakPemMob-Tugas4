@@ -4,21 +4,27 @@
 **NIM: H1D023009**  
 **Shift KRS: F**  
 **Shift Baru: E**
-**Tugas Pertemuan 5**
+**Rekap Tugas Pertemuan 1-5**
 
-# 📸 Dokumentasi Tugas 4 Pemrograman Mobile  
+# 📸 Dokumentasi
+Tugas 1-4 Pemrograman Mobile  
 
 Berikut adalah tampilan hasil aplikasi Android:
 
-## Tampilan Awal Ketika Di Run
-![Tampilan Awal](assets/Tampilan%20Awal-Screenshot%202025-09-23%20175903.png)
-
-## Tampilan Logo Perpindahan Ketika Masuk Ke Aplikasinya
-![Tampilan Logo](assets/Tampilam%202-Tampilan%20Logo-Screenshot%202025-09-23%20175930.png)
-
-## Tampilan Aplikasi Yang Diselesaikan Di Tugas 3
+## Screenshot Tugas 1 Pertemuan 2
+![Tampilan Logo](assets/Logo%20Masuk%20Screenshot_20250928_213822.png)
+![Tampilan Awal](assets/Tampilan%20Awal%20Screenshot_20250919_222142.png)
 
 
-## 🎥 Demo Aplikasi Penjelasan Singkat Aplikasinya
+
+## 🎥 Demo Aplikasi Tugas 2 Pertemuan 3
 Video demo aplikasi dapat dilihat pada file berikut:  
-`Demo Tugas 2-Screen Recording 2025-09-19 223112.mp4`
+`assets/Demo Tugas 2-Screen Recording 2025-09-19 223112.gif.gif`
+
+## 🎥 Demo Aplikasi Tugas 3 Pertemuan 4
+Video demo aplikasi dapat dilihat pada file berikut:  
+`assets/Demo Tugas 3-Screen Recording 2025-09-28 215031.gif.mp4`
+
+## 🎥 Demo Aplikasi Tugas 4 Pertemuan 5
+Video demo aplikasi dapat dilihat pada file berikut:  
+`assets/Demo Tugas 4.gif.gif`
